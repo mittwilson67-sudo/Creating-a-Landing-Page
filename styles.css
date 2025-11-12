@@ -82,16 +82,16 @@ body {
   padding: 10px;
 }
 
-footer {
+.footer {
   background-color: burlywood;
 }
-footer ul {
+.footer ul {
   display: flex;
   color: white;
   list-style: none;
   justify-content: space-around;
   padding: 10px;
 }
-footer ul a {
+.footer ul a {
   cursor: pointer;
 }
